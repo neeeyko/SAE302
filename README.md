@@ -1,5 +1,5 @@
 
-# SAÉ 3.02 — Supervision d'un parc informatique
+# SAÉ 3.02 - Supervision d'un parc informatique
 
 Projet de BUT R&T 2e année, IUT de Villetaneuse.
 Des agents relèvent l'état des machines (CPU, RAM, disque) et l'envoient
