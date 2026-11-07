@@ -27,4 +27,4 @@ dans une interface, avec des alertes.
 
 ## Protocole applicatif
 
-À compléter.
+À compléter
